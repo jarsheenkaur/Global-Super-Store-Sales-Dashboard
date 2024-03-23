@@ -4,10 +4,10 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 ## Features
 
 - Light / Dark Mode Toggle
-- 4 Different Dashbords for Quick Insights
-- Fullscreen mode
+- 4 Different Dashboards for Quick Insights
 - Multiple Data Filters
 - Navigation Pane
+- Sales Forecast 
 
 
 ## Screenshots

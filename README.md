@@ -7,7 +7,9 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 - 4 Different Dashboards for Quick Insights
 - Multiple Data Filters
 - Navigation Pane
-- Sales Forecast 
+- Sales Forecast for First Quarter
+- Sales Decomposition Chart
+- Profit and Sales Comparison Analysis
 
 
 ## Screenshots

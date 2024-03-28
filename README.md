@@ -13,7 +13,7 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 
 
 ## Screenshots
-#### Light Mode
+### Light Mode
 
 ![PSS (3)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/7f91564c-3426-4f56-8aad-f72b7165214c)
 
@@ -26,7 +26,7 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 ![PSS (6)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/fffe6ffe-8b3e-4d2a-8ce1-9e36c6f2b779)
 
 
-#### Dark Mode
+### Dark Mode
 
 ![PSS (1)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/0f7afad5-aebe-4ad7-8235-ae6cf1a480cf)
 

@@ -41,4 +41,13 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 
 ## Key Takeaways
 
+- Total Quantity ordered is around 178K exclusive of more than 1K Returns Made.
+- Total Sales was more than 12 Million Dollars with Total Profit of 1.47 Million Dollars.
+- Average Shipping Time is 4 days and Standard Shipping Mode is most preferred.
+- Phones are the most sold products closely followed by copiers, chairs and bookcases.
+- Asia Pacific holds the Biggest Sales market.
+- Consumers contribute near about 52% of the Total Sales.
+- United States contributes the highest profit followed by China, India and United Kingdom.
+
+
 

@@ -14,15 +14,16 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 
 ## Screenshots
 #### Light Mode
-![PSS (3)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/c65219b3-1cb4-42a8-9aed-302f9d486f86)
 
-![PSS (2)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/76bab02e-6fcc-4b71-9812-39ba6b16cfee)
+![PSS (3)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/7f91564c-3426-4f56-8aad-f72b7165214c)
 
-![PSS (4)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/9cdfb594-bd04-44c7-be18-6213f43e876c)
+![PSS (2)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/e05ada8f-317d-4d68-bb67-550db7f55607)
 
-![PSS (5)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/c1d358fe-2799-4705-af90-28daca3a69e3)
+![PSS (4)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/5293c62d-e7a7-43fa-bd2f-fd56a8a35269)
 
-![PSS (6)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/7b41a0c0-836b-43bf-b64b-9dc841d1b3af)
+![PSS (5)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/aad35197-6970-4129-872a-8b02c1ea817f)
+
+![PSS (6)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/fffe6ffe-8b3e-4d2a-8ce1-9e36c6f2b779)
 
 
 #### Dark Mode

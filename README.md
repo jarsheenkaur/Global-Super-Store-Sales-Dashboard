@@ -28,7 +28,15 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 
 #### Dark Mode
 
+![PSS (1)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/0f7afad5-aebe-4ad7-8235-ae6cf1a480cf)
 
+![PSS (10)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/cd89c2fb-501f-4127-9fbd-9ab4f5804aec)
+
+![PSS (7)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/1f26c061-c9b9-4d04-8397-34e050c00c89)
+
+![PSS (8)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/11a2bca8-2039-4622-a9b0-f496e6e6cde0)
+
+![PSS (9)](https://github.com/jarsheenkaur/Global-Super-Store-Sales-Dashboard/assets/152518497/28aee2d7-419f-445c-a159-5dde6da6dec1)
 
 
 ## Key Takeaways

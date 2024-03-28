@@ -13,6 +13,11 @@ Developed an extensive Power BI Global Superstore Sales Dashboard utilizing Powe
 
 
 ## Screenshots
+#### Light Mode
+
+
+
+#### Dark Mode
 
 
 
